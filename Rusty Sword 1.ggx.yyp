@@ -145,6 +145,7 @@
     {"id":{"name":"rm_end","path":"rooms/rm_end/rm_end.yy",},},
     {"id":{"name":"rm_forest_1","path":"rooms/rm_forest_1/rm_forest_1.yy",},},
     {"id":{"name":"rm_forest_2","path":"rooms/rm_forest_2/rm_forest_2.yy",},},
+    {"id":{"name":"rm_house_1","path":"rooms/rm_house_1/rm_house_1.yy",},},
     {"id":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"rm_mountain_1","path":"rooms/rm_mountain_1/rm_mountain_1.yy",},},
@@ -346,6 +347,7 @@
     {"roomId":{"name":"rm_mountain_1","path":"rooms/rm_mountain_1/rm_mountain_1.yy",},},
     {"roomId":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
     {"roomId":{"name":"rm_end","path":"rooms/rm_end/rm_end.yy",},},
+    {"roomId":{"name":"rm_house_1","path":"rooms/rm_house_1/rm_house_1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
