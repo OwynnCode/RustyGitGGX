@@ -207,6 +207,7 @@
     {"id":{"name":"sHarpySmashHB","path":"sprites/sHarpySmashHB/sHarpySmashHB.yy",},},
     {"id":{"name":"sHurt","path":"sprites/sHurt/sHurt.yy",},},
     {"id":{"name":"sIdle","path":"sprites/sIdle/sIdle.yy",},},
+    {"id":{"name":"Sigbert","path":"sprites/Sigbert/Sigbert.yy",},},
     {"id":{"name":"sJump","path":"sprites/sJump/sJump.yy",},},
     {"id":{"name":"sKnightBlock","path":"sprites/sKnightBlock/sKnightBlock.yy",},},
     {"id":{"name":"sKnightDefeated","path":"sprites/sKnightDefeated/sKnightDefeated.yy",},},
